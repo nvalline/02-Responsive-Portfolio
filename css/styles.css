@@ -1,5 +1,8 @@
+html,
 body {
   font-family: "Nunito", sans-serif;
+  height: 100%;
+  min-height: 100%;
 }
 
 /*-- Start Header CSS --*/
@@ -41,7 +44,8 @@ nav {
 
 /*-- Start Main CSS --*/
 main {
-  height: 82vh;
+  height: 100%;
+  padding-top: 1.5rem;
 }
 
 /*-- End Main CSS --*/

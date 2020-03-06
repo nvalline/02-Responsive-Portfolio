@@ -7,8 +7,8 @@
     padding-bottom: 0.7rem;
   }
 
-  .bio {
-    margin-bottom: 1.5rem;
+  main {
+    padding-top: 5rem;
   }
 }
 /*-- Bootstrap breakpoints

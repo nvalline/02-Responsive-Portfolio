@@ -1,8 +1,8 @@
 html,
 body {
   font-family: "Nunito", sans-serif;
-  height: 100%;
-  min-height: 100%;
+  height: calc(100% - 4rem);
+  min-height: calc(100% - 4rem);
 }
 
 /*-- Start Header CSS --*/
@@ -46,6 +46,25 @@ nav {
 main {
   height: 100%;
   padding-top: 1.5rem;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.container row {
+  flex-grow: 1;
+}
+
+.bg-img {
+  height: 100%;
+  width: 100%;
+  background-image: url(../img/bg-pattern.png);
+}
+
+.bio-img {
+  max-width: 40%;
 }
 
 /*-- End Main CSS --*/

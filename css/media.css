@@ -10,6 +10,12 @@
   main {
     padding-top: 5rem;
   }
+
+  .bio-img {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0 !important;
+  }
 }
 /*-- Bootstrap breakpoints
 

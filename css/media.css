@@ -12,6 +12,11 @@
     padding-top: 5rem;
   }
 
+  .content {
+    margin: 0 auto 2rem;
+    width: 90%;
+  }
+
   /*-- Index.html CSS --*/
   .bio-img {
     display: block;

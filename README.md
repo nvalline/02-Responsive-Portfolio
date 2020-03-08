@@ -71,6 +71,8 @@ Download or copy the source files.
 
 ## References
 
+- Nate Valline
+- [W3Schools](https://www.w3schools.com/)
 - [Bootstrap 4](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
 
 [Back To The Top](#project-name)

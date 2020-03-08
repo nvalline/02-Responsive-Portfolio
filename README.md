@@ -42,7 +42,7 @@ Use the source files as a template to create your own portfolio.
 
 Download or copy the source files.
 
-#### Code Reference
+#### Code Example
 
 ```html
 <div class="col-md-6 col-lg-5 text-center border-mobile">
@@ -52,6 +52,17 @@ Download or copy the source files.
     <a href="contact.html" class="list-link px-4">Contact</a>
   </nav>
 </div>
+```
+
+```css
+.card-body {
+  background-color: #17a2b8;
+  color: #fff;
+  position: absolute;
+  left: 0;
+  bottom: 10px;
+  width: 100%;
+}
 ```
 
 [Back To The Top](#project-name)

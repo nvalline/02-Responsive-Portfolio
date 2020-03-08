@@ -40,10 +40,16 @@ Use the source files as a template to create your own portfolio.
 
 Download or copy the source files.
 
-#### API Reference
+#### Code Reference
 
 ```html
-<p>dummy code</p>
+<div class="col-md-6 col-lg-5 text-center border-mobile">
+  <nav>
+    <a href="index.html" class="list-link px-4 border-right">About</a>
+    <a href="portfolio.html" class="list-link px-4 border-right">Portfolio</a>
+    <a href="contact.html" class="list-link px-4">Contact</a>
+  </nav>
+</div>
 ```
 
 [Back To The Top](#project-name)
@@ -51,6 +57,8 @@ Download or copy the source files.
 ---
 
 ## References
+
+- Bootstrap 4 [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
 
 [Back To The Top](#project-name)
 

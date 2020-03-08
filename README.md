@@ -58,7 +58,7 @@ Download or copy the source files.
 
 ## References
 
-- Bootstrap 4 [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+- [Bootstrap 4](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
 
 [Back To The Top](#project-name)
 
@@ -66,7 +66,7 @@ Download or copy the source files.
 
 ## License
 
-Copyright (c) [2020][nate valline]
+Copyright (c) 2020 Nate Valline
 
 [Back To The Top](#project-name)
 

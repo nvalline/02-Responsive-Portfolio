@@ -1,8 +1,8 @@
 # Nate Valline's Portfolio
 
-<img src="./img/project-image.png" width="400px">
+<img src="./img/project-image.png" width="600px">
 
-> Short Project Blurb
+> This is a responsive portfolio design
 
 ---
 
@@ -20,18 +20,25 @@ Your section headers will be used to reference location of destination.
 
 ## Description
 
-Enter project description here
+For this project I created a simple, responsive portfolio design to showcase; who I am, my projects and a way to contact me. I began by developing the index.html page utilizing the Bootstrap 4 framework. Once created I was able to copy the repeating elements to the portfolio.html and contact.html files. This created continuity between the pages.
+
+This was also designed as a responsive website that will adjust to different device widths is a clean and purposeful manner.
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+- HTML 5
+- CSS 3
+- Bootstrap 4
 
 ---
 
 ## How To Use
 
+Use the source files as a template to create your own portfolio.
+
 #### Installation
+
+Download or copy the source files.
 
 #### API Reference
 

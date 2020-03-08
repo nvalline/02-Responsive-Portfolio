@@ -1,6 +1,6 @@
 # Nate Valline's Portfolio
 
-![Project Image](./img/project-image.png)
+<img src="./img/project-image.png" width="400px">
 
 > Short Project Blurb
 

@@ -46,7 +46,11 @@ main {
   padding-top: 1.5rem;
 }
 
-.bio h1 {
+.content {
+  margin-bottom: 2rem;
+}
+
+.content h1 {
   color: #17a2b8;
 }
 
@@ -54,11 +58,32 @@ main {
   height: 100%;
   width: 100%;
   background-image: url(../img/bg-pattern.png);
+  background-size: cover;
 }
 
+/*-- About Content --*/
 .bio-img {
   float: left;
   max-width: 40%;
+}
+
+/*-- Portfoliio Content --*/
+.card-row {
+  margin: 0 auto;
+}
+.card-row .col-12 {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.card {
+  margin: 10px;
+  padding: 5px;
+  width: 45% !important;
+}
+.card img {
+  height: 190px;
+  object-fit: cover;
 }
 
 /*-- End Main CSS --*/

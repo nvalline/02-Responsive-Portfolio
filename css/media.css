@@ -2,6 +2,7 @@
 
 @media screen and (max-width: 767px) {
   .border-mobile {
+    background-color: #fff;
     border-bottom: 1px solid #dee2e6;
     margin-bottom: 2.5rem;
     padding-bottom: 0.7rem;
@@ -10,10 +11,8 @@
   main {
     padding-top: 5rem;
   }
-  .bio {
-    margin-bottom: 2rem;
-  }
 
+  /*-- Index.html CSS --*/
   .bio-img {
     display: block;
     float: none;
@@ -21,7 +20,13 @@
     margin: 10px auto;
     padding: 0 !important;
   }
+
+  /*-- Portfolio.html CSS */
+  .card {
+    width: 100% !important;
+  }
 }
+
 /*-- Bootstrap breakpoints
 
 // Extra small devices (portrait phones, less than 576px)

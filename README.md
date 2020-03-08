@@ -1,6 +1,6 @@
-# Project Name
+# Nate Valline's Portfolio
 
-![Project Image](project-image-url)
+![Project Image](./img/project-image.png)
 
 > Short Project Blurb
 

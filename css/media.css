@@ -1,5 +1,25 @@
 /*-- Media Queries --*/
 
+@media screen and (max-width: 576px) {
+  .pl-4,
+  .px-4 {
+    padding: 0 0.5rem !important;
+  }
+
+  .list-link {
+    font-size: 0.9rem;
+  }
+
+  .content h1 {
+    font-size: 2rem;
+  }
+
+  /*-- Portfolio.html CSS --*/
+  .card h3 {
+    font-size: 1.1rem;
+  }
+}
+
 @media screen and (max-width: 767px) {
   .border-mobile {
     background-color: #fff;
